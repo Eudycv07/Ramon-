@@ -1,0 +1,11 @@
+C:\Users\eudyc\source\repos\ProyectoFinal\Capa_Entidad\bin\Debug\Capa_Entidad.dll
+C:\Users\eudyc\source\repos\ProyectoFinal\Capa_Entidad\bin\Debug\Capa_Entidad.pdb
+C:\Users\eudyc\source\repos\ProyectoFinal\Capa_Entidad\obj\Debug\Capa_Entidad.csproj.CoreCompileInputs.cache
+C:\Users\eudyc\source\repos\ProyectoFinal\Capa_Entidad\obj\Debug\Capa_Entidad.dll
+C:\Users\eudyc\source\repos\ProyectoFinal\Capa_Entidad\obj\Debug\Capa_Entidad.pdb
+E:\Universidad\Aprobados\Programacion 2\trabajo final\Capa_Entidad\bin\Debug\Capa_Entidad.dll
+E:\Universidad\Aprobados\Programacion 2\trabajo final\Capa_Entidad\bin\Debug\Capa_Entidad.pdb
+E:\Universidad\Aprobados\Programacion 2\trabajo final\Capa_Entidad\obj\Debug\Capa_Entidad.csproj.AssemblyReference.cache
+E:\Universidad\Aprobados\Programacion 2\trabajo final\Capa_Entidad\obj\Debug\Capa_Entidad.csproj.CoreCompileInputs.cache
+E:\Universidad\Aprobados\Programacion 2\trabajo final\Capa_Entidad\obj\Debug\Capa_Entidad.dll
+E:\Universidad\Aprobados\Programacion 2\trabajo final\Capa_Entidad\obj\Debug\Capa_Entidad.pdb

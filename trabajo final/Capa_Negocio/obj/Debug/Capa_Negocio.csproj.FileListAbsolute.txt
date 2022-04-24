@@ -1,0 +1,15 @@
+C:\Users\eudyc\source\repos\ProyectoFinal\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\eudyc\source\repos\ProyectoFinal\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\eudyc\source\repos\ProyectoFinal\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\eudyc\source\repos\ProyectoFinal\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\eudyc\source\repos\ProyectoFinal\Capa_Negocio\obj\Debug\Capa_Negocio.csprojAssemblyReference.cache
+C:\Users\eudyc\source\repos\ProyectoFinal\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\eudyc\source\repos\ProyectoFinal\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+C:\Users\eudyc\source\repos\ProyectoFinal\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\eudyc\source\repos\ProyectoFinal\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\eudyc\source\repos\ProyectoFinal\Capa_Negocio\bin\Debug\Capa_Entidad.dll
+C:\Users\eudyc\source\repos\ProyectoFinal\Capa_Negocio\bin\Debug\Capa_Entidad.pdb
+E:\Universidad\Aprobados\Programacion 2\trabajo final\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+E:\Universidad\Aprobados\Programacion 2\trabajo final\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+E:\Universidad\Aprobados\Programacion 2\trabajo final\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+E:\Universidad\Aprobados\Programacion 2\trabajo final\Capa_Negocio\obj\Debug\Capa_Negocio.pdb

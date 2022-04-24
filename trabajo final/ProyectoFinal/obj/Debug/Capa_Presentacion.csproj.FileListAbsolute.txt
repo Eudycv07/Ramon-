@@ -1,0 +1,34 @@
+C:\Users\eudyc\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\eudyc\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\eudyc\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\eudyc\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\Capa_Datos.dll
+C:\Users\eudyc\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\Capa_Negocio.dll
+C:\Users\eudyc\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\Capa_Datos.pdb
+C:\Users\eudyc\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\Capa_Negocio.pdb
+C:\Users\eudyc\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\Capa_Presentacion.csprojAssemblyReference.cache
+C:\Users\eudyc\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Login.resources
+C:\Users\eudyc\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\eudyc\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\Capa_Presentacion.csproj.GenerateResource.cache
+C:\Users\eudyc\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\Capa_Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\eudyc\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\Capa_Presentacion.csproj.CopyComplete
+C:\Users\eudyc\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\eudyc\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\eudyc\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\eudyc\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\eudyc\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.VentanaPrincipal.resources
+C:\Users\eudyc\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\Capa_Entidad.dll
+C:\Users\eudyc\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\Capa_Entidad.pdb
+C:\Users\eudyc\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.FormperfilUsuario.resources
+C:\Users\eudyc\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Crearusuario.resources
+C:\Users\eudyc\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.visita.resources
+E:\Universidad\Aprobados\Programacion 2\trabajo final\ProyectoFinal\obj\Debug\Capa_Presentacion.csproj.AssemblyReference.cache
+E:\Universidad\Aprobados\Programacion 2\trabajo final\ProyectoFinal\obj\Debug\ProyectoFinal.Crearusuario.resources
+E:\Universidad\Aprobados\Programacion 2\trabajo final\ProyectoFinal\obj\Debug\ProyectoFinal.FormperfilUsuario.resources
+E:\Universidad\Aprobados\Programacion 2\trabajo final\ProyectoFinal\obj\Debug\ProyectoFinal.Login.resources
+E:\Universidad\Aprobados\Programacion 2\trabajo final\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+E:\Universidad\Aprobados\Programacion 2\trabajo final\ProyectoFinal\obj\Debug\ProyectoFinal.VentanaPrincipal.resources
+E:\Universidad\Aprobados\Programacion 2\trabajo final\ProyectoFinal\obj\Debug\ProyectoFinal.visita.resources
+E:\Universidad\Aprobados\Programacion 2\trabajo final\ProyectoFinal\obj\Debug\Capa_Presentacion.csproj.GenerateResource.cache
+E:\Universidad\Aprobados\Programacion 2\trabajo final\ProyectoFinal\obj\Debug\Capa_Presentacion.csproj.CoreCompileInputs.cache
+E:\Universidad\Aprobados\Programacion 2\trabajo final\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+E:\Universidad\Aprobados\Programacion 2\trabajo final\ProyectoFinal\obj\Debug\ProyectoFinal.pdb

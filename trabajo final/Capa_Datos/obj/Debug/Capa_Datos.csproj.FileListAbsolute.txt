@@ -1,0 +1,18 @@
+C:\Users\eudyc\source\repos\ProyectoFinal\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\eudyc\source\repos\ProyectoFinal\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\eudyc\source\repos\ProyectoFinal\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\eudyc\source\repos\ProyectoFinal\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\eudyc\source\repos\ProyectoFinal\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\eudyc\source\repos\ProyectoFinal\Capa_Datos\bin\Debug\Capa_Entidad.dll
+C:\Users\eudyc\source\repos\ProyectoFinal\Capa_Datos\bin\Debug\Capa_Entidad.pdb
+C:\Users\eudyc\source\repos\ProyectoFinal\Capa_Datos\obj\Debug\Capa_Datos.csprojAssemblyReference.cache
+C:\Users\eudyc\source\repos\ProyectoFinal\Capa_Datos\obj\Debug\Capa_Datos.csproj.CopyComplete
+E:\Universidad\Aprobados\Programacion 2\trabajo final\Capa_Datos\bin\Debug\Capa_Datos.dll
+E:\Universidad\Aprobados\Programacion 2\trabajo final\Capa_Datos\bin\Debug\Capa_Datos.pdb
+E:\Universidad\Aprobados\Programacion 2\trabajo final\Capa_Datos\bin\Debug\Capa_Entidad.dll
+E:\Universidad\Aprobados\Programacion 2\trabajo final\Capa_Datos\bin\Debug\Capa_Entidad.pdb
+E:\Universidad\Aprobados\Programacion 2\trabajo final\Capa_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+E:\Universidad\Aprobados\Programacion 2\trabajo final\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+E:\Universidad\Aprobados\Programacion 2\trabajo final\Capa_Datos\obj\Debug\Capa_Datos.csproj.CopyComplete
+E:\Universidad\Aprobados\Programacion 2\trabajo final\Capa_Datos\obj\Debug\Capa_Datos.dll
+E:\Universidad\Aprobados\Programacion 2\trabajo final\Capa_Datos\obj\Debug\Capa_Datos.pdb
